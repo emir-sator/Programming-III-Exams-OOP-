@@ -1,0 +1,47 @@
+﻿  Ispit1.cpp
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(328,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(359,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(370,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(390,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(423,35): warning C4244: 'argument': conversion from 'double' to 'const T2', possible loss of data
+          with
+          [
+              T2=float
+          ]
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(165,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(164): message : while compiling class template member function 'void Kolekcija<int,float>::RemoveElement(const T1 &)'
+          with
+          [
+              T1=int
+          ]
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(429): message : see reference to function template instantiation 'void Kolekcija<int,float>::RemoveElement(const T1 &)' being compiled
+          with
+          [
+              T1=int
+          ]
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(421): message : see reference to class template instantiation 'Kolekcija<int,float>' being compiled
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(171,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(138,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(136): message : while compiling class template member function 'bool Kolekcija<int,float>::AddElement(const T1 &,const T2 &)'
+          with
+          [
+              T1=int,
+              T2=float
+          ]
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(423): message : see reference to function template instantiation 'bool Kolekcija<int,float>::AddElement(const T1 &,const T2 &)' being compiled
+          with
+          [
+              T1=int,
+              T2=float
+          ]
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(147,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(131,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(130): message : while compiling class template member function 'std::ostream &operator <<(std::ostream &,const Kolekcija<int,float> &)'
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(427): message : see reference to function template instantiation 'std::ostream &operator <<(std::ostream &,const Kolekcija<int,float> &)' being compiled
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(97,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(89): message : while compiling class template member function 'Kolekcija<int,float> &Kolekcija<int,float>::operator =(const Kolekcija<int,float> &)'
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(432): message : see reference to function template instantiation 'Kolekcija<int,float> &Kolekcija<int,float>::operator =(const Kolekcija<int,float> &)' being compiled
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(83,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(78): message : while compiling class template member function 'Kolekcija<int,float>::Kolekcija(const Kolekcija<int,float> &)'
+C:\Users\Emir\source\repos\Ispit1\Ispit1\Ispit1.cpp(438): message : see reference to function template instantiation 'Kolekcija<int,float>::Kolekcija(const Kolekcija<int,float> &)' being compiled
+  Ispit1.vcxproj -> C:\Users\Emir\source\repos\Ispit1\Debug\Ispit1.exe

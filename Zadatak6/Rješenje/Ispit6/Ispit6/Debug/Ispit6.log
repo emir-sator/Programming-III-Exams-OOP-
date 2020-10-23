@@ -1,0 +1,10 @@
+﻿  Ispit6.cpp
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(226,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(240,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(273,32): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(274,27): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(67,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(66): message : while compiling class template member function 'std::ostream &operator <<(std::ostream &,Kolekcija<std::string,ZavrsniRad> &)'
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(217): message : see reference to function template instantiation 'std::ostream &operator <<(std::ostream &,Kolekcija<std::string,ZavrsniRad> &)' being compiled
+C:\Users\Emir\source\repos\Ispit6\Ispit6\Ispit6.cpp(210): message : see reference to class template instantiation 'Kolekcija<std::string,ZavrsniRad>' being compiled
+  Ispit6.vcxproj -> C:\Users\Emir\source\repos\Ispit6\Debug\Ispit6.exe

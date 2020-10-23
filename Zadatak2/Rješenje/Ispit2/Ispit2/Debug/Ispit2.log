@@ -1,0 +1,33 @@
+﻿  Ispit2.cpp
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(213,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(221,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(233,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(291,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(323,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(98,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(94): message : while compiling class template member function 'void Kolekcija<int,int>::SortOpadajuciByT2(void)'
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(355): message : see reference to function template instantiation 'void Kolekcija<int,int>::SortOpadajuciByT2(void)' being compiled
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(346): message : see reference to class template instantiation 'Kolekcija<int,int>' being compiled
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(77,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(74): message : while compiling class template member function 'void Kolekcija<int,int>::AddElement(const T1 &,const T2 &)'
+          with
+          [
+              T1=int,
+              T2=int
+          ]
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(348): message : see reference to function template instantiation 'void Kolekcija<int,int>::AddElement(const T1 &,const T2 &)' being compiled
+          with
+          [
+              T1=int,
+              T2=int
+          ]
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(69,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(68): message : while compiling class template member function 'std::ostream &operator <<(std::ostream &,Kolekcija<int,int> &)'
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(349): message : see reference to function template instantiation 'std::ostream &operator <<(std::ostream &,Kolekcija<int,int> &)' being compiled
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(52,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(44): message : while compiling class template member function 'Kolekcija<int,int> &Kolekcija<int,int>::operator =(const Kolekcija<int,int> &)'
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(354): message : see reference to function template instantiation 'Kolekcija<int,int> &Kolekcija<int,int>::operator =(const Kolekcija<int,int> &)' being compiled
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(37,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(33): message : while compiling class template member function 'Kolekcija<int,int>::Kolekcija(const Kolekcija<int,int> &)'
+C:\Users\Emir\source\repos\Ispit2\Ispit2\Ispit2.cpp(351): message : see reference to function template instantiation 'Kolekcija<int,int>::Kolekcija(const Kolekcija<int,int> &)' being compiled
+  Ispit2.vcxproj -> C:\Users\Emir\source\repos\Ispit2\Debug\Ispit2.exe
